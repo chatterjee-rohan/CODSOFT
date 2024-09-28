@@ -19,5 +19,5 @@ This repository contains my submissions for the web development internship. It i
 ## Contact
 For any queries, feel free to reach out:
 
-- Email: chatterjeerohan3104@gmail.com
-- GitHub: github.com/chatterjee-rohan
+- **Email:** chatterjeerohan3104@gmail.com
+- **GitHub:** github.com/chatterjee-rohan
