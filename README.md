@@ -1,4 +1,4 @@
-# Web Development Internship - Task Submissions
+# Web Development Internship - CODSOFT
 
 This repository contains my submissions for the web development internship. It includes three folders, each corresponding to a different task. The tasks demonstrate my proficiency in web technologies like HTML, CSS, and JavaScript.
 
